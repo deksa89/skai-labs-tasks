@@ -1,26 +1,28 @@
 # Openlayers polygon mapping
 
-Open Layer App is a web mapping application built with `OpenLayers`, a feature-packed library for creating interactive maps on the web.
+**Open Layer App** is a web mapping application built with `OpenLayers`, a feature-packed library for creating interactive maps on the web.
 
+I was using `npm create ol-app open_layer_app` to create the app to start building the project.
+That command created a directory called `open_layer_app`, installed `OpenLayers`, `development server` and set up a basic app with `index.html`, `main.js`, and `style.css` files. 
 
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 
 ### Prerequisites
-Before you begin, ensure you have `Node.js` (14 or higher) installed on your system. This project uses `npm` (Node Package Manager) to manage dependencies.
+Before you begin, make sure that you have `Node.js` (14 or higher) installed on your system. This project uses `npm` (Node Package Manager) to manage dependencies.
 
 
 ### Installation
 Clone the repository to your machine using Git:
 
 ```
-git clone https://github.com/deksa89/display_polygon_on_a_map.git
+git clone https://github.com/deksa89/skai-labs-tasks.git
 ```
 Navigate into the project directory:
 
 ```
-cd display_polygon_on_a_map
+cd skai_labs_tasks/open_layer_app
 ```
 
 Install dependencies:
