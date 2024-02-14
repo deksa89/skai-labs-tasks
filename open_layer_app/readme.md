@@ -43,12 +43,3 @@ You will see the polygon encompasses northern Croatia with some spillover to Bos
 Zoom to polygon is adjusted to any screen size. 
 
 ![Screenshot from 2024-02-14 09-23-46](https://github.com/deksa89/skai-labs-tasks/assets/89583742/5680a8e7-0641-40cc-8b16-763948c13c70)
-
-
-
-
-## Built With
-- `OpenLayers` - A high-performance, feature-packed library for all your mapping needs.
-- `Node.js` - JavaScript runtime built on Chrome's V8 JavaScript engine.
-- `npm` - Package manager for JavaScript and the world's largest software registry.
-
